@@ -1,0 +1,29 @@
+.left {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100px;
+  height: 300px;
+  background: lightseagreen;
+}
+.right {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100px;
+  height: 300px;
+  background: lightseagreen;
+}
+.left {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100px;
+  height: 300px;
+  background: violet;
+}
+
+.visual {
+  height: 300px;
+  background: tomato;
+}
